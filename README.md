@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Check the deployed app!!
+
+https://todo-app-8e3e2.web.app/ .
+
 ## Available Scripts
 
 In the project directory, you can run:
